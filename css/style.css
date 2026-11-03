@@ -1,0 +1,74 @@
+        body {
+            margin: 0;
+            font-family: "Microsoft JhengHei", sans-serif;
+            background: #10182d;
+            color: white;
+            text-align: center;
+        }
+
+        header {
+            padding: 25px;
+            background: #222447;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+
+        main {
+            padding: 70px 20px;
+        }
+
+        h1 {
+            color: #b69cff;
+            font-size: 42px;
+        }
+
+        .card {
+            background: #262b4b;
+            padding: 25px;
+            margin: 20px auto;
+            max-width: 450px;
+            border-radius: 15px;
+        }
+        
+/* 歌曲搜尋輸入框 */
+#searchInput {
+    padding: 12px;
+    width: 75%;
+    max-width: 350px;
+    border-radius: 8px;
+    border: none;
+    margin: 15px 0;
+    font-size: 16px;
+}
+
+/* 搜尋按鈕 */
+#searchButton {
+    padding: 12px 20px;
+    background: #b69cff;
+    color: #10182d;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#searchButton:hover {
+    background: #d2c0ff;
+}
+
+/* 搜尋結果 */
+.song-result {
+    background: #34395e;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+#searchResult {
+    margin-top: 15px;
+}
