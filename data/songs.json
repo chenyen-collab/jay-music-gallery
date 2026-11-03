@@ -1,3 +1,36 @@
+
+[
+  {
+    "title": "可愛女人",
+    "album": "Jay",
+    "style": "R&B、流行",
+    "description": "以浪漫情感為主題，呈現輕快的 R&B 氛圍。"
+  },
+  {
+    "title": "星晴",
+    "album": "Jay",
+    "style": "流行、抒情",
+    "description": "透過星空意象描繪青春與愛情。"
+  },
+  {
+    "title": "黑色幽默",
+    "album": "Jay",
+    "style": "抒情、R&B",
+    "description": "以感情中的無奈與矛盾為主題。"
+  },
+  {
+    "title": "龍捲風",
+    "album": "Jay",
+    "style": "R&B、抒情",
+    "description": "用龍捲風比喻愛情來得突然又強烈。"
+  },
+  {
+    "title": "反方向的鐘",
+    "album": "Jay",
+    "style": "R&B、嘻哈",
+    "description": "以時間倒轉的想像描寫感情中的遺憾。"
+  },
+  {
     "title": "愛在西元前",
     "album": "范特西",
     "style": "R&B、嘻哈",
@@ -63,19 +96,31 @@
     "style": "嘻哈、古典元素",
     "description": "結合戲劇性編曲與敘事氛圍。"
   },
-  {
-    "title": "晴天",
-    "album": "葉惠美",
-    "style": "抒情、流行",
-    "description": "以青春回憶與感情故事為主題。"
-  },
-  {
-    "title": "東風破",
-    "album": "葉惠美",
-    "style": "中國風、抒情",
-    "description": "融合傳統樂器意象與現代流行編曲。"
-  },
-  {
+    {
+        "title": "懦夫",
+        "album": "葉惠美",
+        "style": "抒情、流行",
+        "description": "描寫愛情中的脆弱與不安。"
+    },
+    {
+        "title": "晴天",
+        "album": "葉惠美",
+        "style": "抒情、流行",
+        "description": "以晴天意象描寫戀愛的甜蜜與遺憾。"
+    },
+    {
+        "title": "三年二班",
+        "album": "葉惠美",
+        "style": "流行、輕快",
+        "description": "以校園生活為背景，帶有青春氣息。"
+    },
+    {
+        "title": "東風破",
+        "album": "葉惠美",
+        "style": "中國風、抒情",
+        "description": "融合中國傳統音樂元素，描寫愛情的哀愁。"
+    },
+    {
     "title": "三年二班",
     "album": "葉惠美",
     "style": "嘻哈、流行",
@@ -99,8 +144,119 @@
     "style": "抒情、流行",
     "description": "描寫感情結束後的自我安慰與遺憾。"
   },
-      "style": "R&B、流行",
-    "description": "以音樂與時間比喻感情中的挽留。"
+  {
+    "title": "擱淺",
+    "album": "七里香",
+    "style": "抒情、流行",
+    "description": "表現感情受挫後難以釋懷的心境。"
+  },
+  {
+    "title": "外婆",
+    "album": "七里香",
+    "style": "嘻哈、流行",
+    "description": "透過家庭題材表達對親人的關懷。"
+  },
+  {
+    "title": "止戰之殤",
+    "album": "七里香",
+    "style": "抒情、古典元素",
+    "description": "以反戰與和平為主題，營造沉重氛圍。"
+  },
+  {
+    "title": "夜曲",
+    "album": "十一月的蕭邦",
+    "style": "嘻哈、古典元素",
+    "description": "融合古典氣氛與節奏，呈現失去愛情的哀傷。"
+  },
+  {
+    "title": "髮如雪",
+    "album": "十一月的蕭邦",
+    "style": "中國風、抒情",
+    "description": "以古典詞彙與東方意象描繪情感。"
+  },
+  {
+    "title": "黑色毛衣",
+    "album": "十一月的蕭邦",
+    "style": "R&B、抒情",
+    "description": "藉日常物件描寫感情中的失落。"
+  },
+  {
+    "title": "珊瑚海",
+    "album": "十一月的蕭邦",
+    "style": "抒情、對唱",
+    "description": "以海洋意象呈現兩人之間的距離。"
+  },
+  {
+    "title": "一路向北",
+    "album": "十一月的蕭邦",
+    "style": "搖滾抒情",
+    "description": "以行駛與離開的意象描寫失戀。"
+  },
+  {
+    "title": "千里之外",
+    "album": "依然范特西",
+    "style": "中國風、對唱",
+    "description": "融合復古曲風與遠距離思念的主題。"
+  },
+  {
+    "title": "聽媽媽的話",
+    "album": "依然范特西",
+    "style": "嘻哈、流行",
+    "description": "以溫暖語氣表達對母親的感謝。"
+  },
+  {
+    "title": "退後",
+    "album": "依然范特西",
+    "style": "抒情、流行",
+    "description": "描寫感情中退讓與失落的心情。"
+  },
+  {
+    "title": "菊花台",
+    "album": "依然范特西",
+    "style": "中國風、抒情",
+    "description": "以古典意象與弦樂呈現離別之情。"
+  },
+  {
+    "title": "本草綱目",
+    "album": "依然范特西",
+    "style": "嘻哈、中國風",
+    "description": "以中藥文化元素搭配鮮明的節奏。"
+  },
+  {
+    "title": "牛仔很忙",
+    "album": "我很忙",
+    "style": "鄉村、流行",
+    "description": "融合西部牛仔風格與輕快節奏。"
+  },
+  {
+    "title": "彩虹",
+    "album": "我很忙",
+    "style": "抒情、流行",
+    "description": "以彩虹意象表達思念與情感。"
+  },
+  {
+    "title": "青花瓷",
+    "album": "我很忙",
+    "style": "中國風、抒情",
+    "description": "結合瓷器與古典詩意，營造典雅氛圍。"
+  },
+  {
+    "title": "蒲公英的約定",
+    "album": "我很忙",
+    "style": "抒情、流行",
+    "description": "以校園回憶與約定描寫青春情感。"
+  },
+  {
+    "title": "最長的電影",
+    "album": "我很忙",
+    "style": "鋼琴抒情",
+    "description": "以電影意象描寫感情與回憶。"
+  },
+  {
+    "title": "稻香",
+    "album": "魔杰座",
+    "style": "流行、民謠元素",
+    "description": "以生活與家庭為主題，傳達珍惜當下的鼓勵。"
   },
   {
     "title": "花海",
