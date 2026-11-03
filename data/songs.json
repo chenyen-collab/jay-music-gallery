@@ -1,9 +1,67 @@
-[
+    "title": "愛在西元前",
+    "album": "范特西",
+    "style": "R&B、嘻哈",
+    "description": "結合歷史意象與節奏感，描繪跨越時間的愛情。"
+  },
   {
     "title": "簡單愛",
     "album": "范特西",
-    "style": "輕快、浪漫",
-    "description": "以輕鬆自然的旋律呈現戀愛的甜蜜感。"
+    "style": "流行、輕快",
+    "description": "以輕鬆旋律描寫單純甜蜜的戀愛。"
+  },
+  {
+    "title": "雙截棍",
+    "album": "范特西",
+    "style": "嘻哈、搖滾",
+    "description": "融合武術意象與強烈節奏，展現鮮明的音樂個性。"
+  },
+  {
+    "title": "開不了口",
+    "album": "范特西",
+    "style": "抒情、R&B",
+    "description": "描寫難以表達心意的遺憾。"
+  },
+  {
+    "title": "安靜",
+    "album": "范特西",
+    "style": "鋼琴抒情",
+    "description": "以鋼琴與細膩情緒描寫分離的心情。"
+  },
+  {
+    "title": "半島鐵盒",
+    "album": "八度空間",
+    "style": "R&B、抒情",
+    "description": "以回憶與物件意象描寫愛情的失落。"
+  },
+  {
+    "title": "暗號",
+    "album": "八度空間",
+    "style": "R&B、流行",
+    "description": "以彼此之間的默契與訊號描寫感情。"
+  },
+  {
+    "title": "回到過去",
+    "album": "八度空間",
+    "style": "抒情、流行",
+    "description": "表達希望回到過去挽回感情的心情。"
+  },
+  {
+    "title": "最後的戰役",
+    "album": "八度空間",
+    "style": "流行、抒情",
+    "description": "以戰友情誼與離別為題材。"
+  },
+  {
+    "title": "龍拳",
+    "album": "八度空間",
+    "style": "嘻哈、中國風",
+    "description": "融合傳統文化意象與強烈節奏。"
+  },
+  {
+    "title": "以父之名",
+    "album": "葉惠美",
+    "style": "嘻哈、古典元素",
+    "description": "結合戲劇性編曲與敘事氛圍。"
   },
   {
     "title": "晴天",
@@ -12,15 +70,138 @@
     "description": "以青春回憶與感情故事為主題。"
   },
   {
-    "title": "七里香",
-    "album": "七里香",
-    "style": "抒情、流行",
-    "description": "以富有畫面感的旋律與意象呈現浪漫氛圍。"
+    "title": "東風破",
+    "album": "葉惠美",
+    "style": "中國風、抒情",
+    "description": "融合傳統樂器意象與現代流行編曲。"
   },
   {
-    "title": "稻香",
+    "title": "三年二班",
+    "album": "葉惠美",
+    "style": "嘻哈、流行",
+    "description": "以校園生活與競爭壓力為題材。"
+  },
+  {
+    "title": "她的睫毛",
+    "album": "葉惠美",
+    "style": "R&B、流行",
+    "description": "以俏皮節奏描繪戀愛中的觀察與心動。"
+  },
+  {
+    "title": "七里香",
+    "album": "七里香",
+    "style": "流行、抒情",
+    "description": "以夏日景物與詩意畫面描繪浪漫情感。"
+  },
+  {
+    "title": "藉口",
+    "album": "七里香",
+    "style": "抒情、流行",
+    "description": "描寫感情結束後的自我安慰與遺憾。"
+  },
+      "style": "R&B、流行",
+    "description": "以音樂與時間比喻感情中的挽留。"
+  },
+  {
+    "title": "花海",
     "album": "魔杰座",
-    "style": "抒情、融合、民謠",
-    "description": "以鄉土情懷與人生感悟為題，旋律溫暖且富有傳唱性。"
+    "style": "抒情、搖滾元素",
+    "description": "以遼闊的自然景象描繪愛情與遺憾。"
+  },
+  {
+    "title": "蘭亭序",
+    "album": "魔杰座",
+    "style": "中國風、抒情",
+    "description": "借用書法與古典文化意象抒發情感。"
+  },
+  {
+    "title": "跨時代",
+    "album": "跨時代",
+    "style": "電子、搖滾",
+    "description": "結合電子節奏與強烈的舞台感。"
+  },
+  {
+    "title": "煙花易冷",
+    "album": "跨時代",
+    "style": "中國風、抒情",
+    "description": "以歷史感與古典意象描寫等待與離別。"
+  },
+  {
+    "title": "說了再見",
+    "album": "跨時代",
+    "style": "抒情、流行",
+    "description": "描寫分別後難以放下的情緒。"
+  },
+  {
+    "title": "超人不會飛",
+    "album": "跨時代",
+    "style": "嘻哈、流行",
+    "description": "以自我反思角度描寫外界期待與壓力。"
+  },
+  {
+    "title": "雨下一整晚",
+    "album": "跨時代",
+    "style": "中國風、R&B",
+    "description": "融合東方旋律與雨夜思念的情境。"
+  },
+  {
+    "title": "驚嘆號",
+    "album": "驚嘆號",
+    "style": "搖滾、電子",
+    "description": "以強烈節奏與能量展現舞台張力。"
+  },
+  {
+    "title": "迷魂曲",
+    "album": "驚嘆號",
+    "style": "電子、流行",
+    "description": "運用電子音色營造迷幻氛圍。"
+  },
+  {
+    "title": "Mine Mine",
+    "album": "驚嘆號",
+    "style": "R&B、流行",
+    "description": "以節奏感描寫感情中的占有與思念。"
+  },
+  {
+    "title": "你好嗎",
+    "album": "驚嘆號",
+    "style": "抒情、流行",
+    "description": "以問候表達對過去感情的牽掛。"
+  },
+  {
+    "title": "世界未末日",
+    "album": "驚嘆號",
+    "style": "搖滾、抒情",
+    "description": "以末日想像描繪珍惜與陪伴。"
+  },
+  {
+    "title": "紅塵客棧",
+    "album": "十二新作",
+    "style": "中國風、抒情",
+    "description": "以江湖與古典意象描寫情感抉擇。"
+  },
+  {
+    "title": "明明就",
+    "album": "十二新作",
+    "style": "抒情、流行",
+    "description": "描寫感情中的不甘與矛盾。"
+  },
+  {
+    "title": "公公偏頭痛",
+    "album": "十二新作",
+    "style": "嘻哈、中國風",
+    "description": "以戲謔敘事搭配節奏與傳統題材。"
+  },
+  {
+    "title": "大笨鐘",
+    "album": "十二新作",
+    "style": "流行、抒情",
+    "description": "以鐘聲意象描寫愛情中的誤解與遺憾。"
+  },
+  {
+    "title": "手語",
+    "album": "十二新作",
+    "style": "R&B、流行",
+    "description": "以無聲溝通的意象描寫愛情。"
   }
 ]
